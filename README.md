@@ -1,6 +1,14 @@
-# Pokedex Project
+<h1 align="center"> Pokedex Project </h1>
+<br><br>
 
-🔄In Progress...
+<h2 align="center"> Project developed with the theme of Pokémon to train concepts and improvement in language. </h2>
+
+## ✨ Features
+
+- [x] View all pokémon
+- [x] Catch Pokémons
+- [x] Pokédex
+- [x] Pokémon Details
 
 ## Stacks 🛠
 
@@ -9,24 +17,39 @@
 - Axios
 - React-Router-Dom
 
-# Getting Started with Create React App
+## 🔗 Links
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [HomePage](https://project_poke.surge.sh/)
 
-## Available Scripts
+## 📦 Install Dependecies
+
+```bash 
+npm install
+```
+```bash
+npm install axios
+``` 
+```bash
+npm install react-router-dom
+```
+```bash
+npm install styled-components
+```
+
+## ⌨️ Development
 
 In the project directory, you can run:
 
-### `npm start`
+```bash
+code .
+```
+
+```bash
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
