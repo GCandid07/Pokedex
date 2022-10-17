@@ -26,15 +26,6 @@
 ```bash 
 npm install
 ```
-```bash
-npm install axios
-``` 
-```bash
-npm install react-router-dom
-```
-```bash
-npm install styled-components
-```
 
 ## ⌨️ Development
 
